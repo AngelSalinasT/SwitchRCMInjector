@@ -1,1 +1,2 @@
 pyusb>=1.2.0
+customtkinter>=5.2.0
